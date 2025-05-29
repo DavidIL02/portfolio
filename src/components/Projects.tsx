@@ -18,12 +18,12 @@ const projects = [
     live: 'https://ecommerce-demo.com',
   },
   {
-    title: 'Task Management App',
-    description: 'A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.',
-    image: '/projects/taskmanager.jpg',
-    technologies: ['React', 'Node.js', 'Socket.io', 'PostgreSQL'],
-    github: 'https://github.com/yourusername/taskmanager',
-    live: 'https://taskmanager-demo.com',
+    title: 'Spanive',
+    description: 'A modern Spanish language learning platform with interactive exercises, real-time progress tracking, and AI-powered pronunciation feedback. Built with a focus on user experience and gamification.',
+    image: '/projects/spanive.jpg',
+    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'OpenAI', 'Prisma'],
+    github: 'https://github.com/DavidIL02/spanive',
+    live: 'https://spanive.vercel.app',
   },
   {
     title: 'AI Content Generator',

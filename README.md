@@ -71,6 +71,5 @@ Feel free to reach out to me through:
 - [LinkedIn](https://www.linkedin.com/in/david-josué-ibáñez-leal-710122302/)
 - [Email](mailto:davidbackk02@gmail.com)
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE). 
+

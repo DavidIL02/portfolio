@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-¡Hola! I'm David, a passionate web developer based in Spain. At 22, I'm transitioning into tech with a unique blend of technical skills and real-world experience.
+¡Hola! I'm David Ibáñez Leal, a passionate web developer based in Spain. At 22, I'm transitioning into tech with a unique blend of technical skills and real-world experience.
 
 ### 💼 Professional Background
 - Strong foundation in teamwork and problem-solving from hospitality and construction
@@ -68,8 +68,8 @@ npm run dev
 ## 📫 Contact
 
 Feel free to reach out to me through:
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/david-josué-ibáñez-leal-710122302/)
+- [Email](mailto:davidbackk02@gmail.com)
 
 ## 📝 License
 
